@@ -56,7 +56,7 @@ Do not refresh the raw data silently. Yahoo adjusted prices may change as subseq
 
 Adjusted closes approximate reinvested distribution returns, not independently reconciled official NAV total returns. The five ETFs were selected today; retrospective universe and strategy selection can bias results. Monthly drawdowns can understate daily losses. Taxes, advisory fees, nonlinear impact and execution delays are excluded. Constraints and covariance assumptions influence optimized holdings. SHY is not risk-free. A historical volatility target or drawdown is not a future guarantee.
 
-## Interview guide
+## Questions
 
 **What does the project prove?** Ability to define an investor mandate, implement chronological portfolio rules, compare risk against relevant controls and explain investment trade-offs.
 
@@ -69,13 +69,4 @@ Adjusted closes approximate reinvested distribution returns, not independently r
 **What does risk contribution show?** Capital weights differ from shares of variance. The diversified portfolio had about 61% equities but 78% of estimated variance from equities at September 2026 month-end.
 
 **What is still missing?** Official NAV reconciliation, daily drawdowns, true Treasury-bill risk-free returns, taxes, a broader universe and genuinely prospective paper testing.
-
-## Resume wording
-
-**Multi-Asset Portfolio Construction & Risk Analysis | Python**
-
-- Compared three stock, bond and gold allocations using a Python model with quarterly rebalancing, historical trading costs and walk-forward testing.
-- Evaluated returns, volatility, drawdowns and recovery times across the 2008 financial crisis, 2020 pandemic and 2022 rate shock.
-- Tested a fixed allocation against a minimum-volatility portfolio, finding that lower equity exposure explained much of the reduction in risk; presented conclusions in an investment memo and dashboard.
-
-Use this wording once you can explain the calculations, assumptions and limitations yourself. It describes an independent work sample, not professional portfolio management experience.
+          `  
